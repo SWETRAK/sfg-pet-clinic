@@ -1,7 +1,5 @@
 package pl.swetrak.sfgpetclinic.model;
 
-public class Vet extends Person{
-
-
+public class Vet extends Person {
 
 }
